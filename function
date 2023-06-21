@@ -1,0 +1,12 @@
+
+def area_triangle(base, height ):
+    return base+height 
+
+area_a=area_triangle(4,5)
+area_b=area_triangle(4,5)
+area_c=area_triangle(4,5)
+
+
+print (area_a)
+print (area_b)
+print (area_c)
